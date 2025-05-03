@@ -1,7 +1,7 @@
 # Assignment: Student Registration System
 
 - GitHub: https://github.com/TejasriNoone/student-registration-form
-- Live: studentregistrationformm.netlify.app
+- LiveDemo: https://studentregistrationformm.netlify.app/
 
 ## Objective
 Develop a student registration system where students can register their details such as **name, class, address, and contact number**. Additionally, the system should provide functionalities for **editing and deleting records**.
